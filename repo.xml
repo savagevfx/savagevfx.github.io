@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Subscribe To My Youtube Channel</name>
+			<url>https://youtube.com/c/savagevfx</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Subscribe to my youtube channel</name>
+			<url>https://youtube.com/c/ahmad4maylodmls</url>
+			<iconclass>fa fa-youtube</iconclass>
+	      	</link>
+                <link>
+			<name>Donate For Me</name>
+			<url>https://paypal.me/Ahmad4MayLod</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+	</footerlinks>
+</repo>
